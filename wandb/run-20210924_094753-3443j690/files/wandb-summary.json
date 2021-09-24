@@ -1,0 +1,1 @@
+{"Loss": NaN, "_runtime": 474, "_timestamp": 1632457547, "_step": 2199, "Val Loss": NaN, "Img": {"_type": "image-file", "path": "media/images/Img_2199_d1fde2ac6d6abe2d23d9.png", "sha256": "d1fde2ac6d6abe2d23d9ce224cda7d595a5885d89b82fd4aabe00e82f5ea2086", "size": 19400, "format": "png", "width": 864, "height": 504}, "_wandb": {"runtime": 495}}
